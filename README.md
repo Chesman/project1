@@ -2,3 +2,6 @@
 
 init
 three stage thinking
+
+add
+commit, log, diff
